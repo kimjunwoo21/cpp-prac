@@ -1,3 +1,14 @@
+/**
+ * @file DonutAndBarGraph.cpp
+ * @author Junwoo Kim (kingjunwoo21@naver.com)
+ * @brief Programmers - 2024 KAKAO WINTER INTERNSHIP 
+ * @version 0.1
+ * @date 2024-03-27
+ * 
+ * @copyright Copyright (c) 2024
+ * 
+ */
+
 #include <string>
 #include <vector>
 #include <unordered_map>
